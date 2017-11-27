@@ -1,3 +1,3 @@
 # animation
 
-(https://thankuniverse.github.io/animationCSS/)
+(!https://thankuniverse.github.io/animationCSS/)
